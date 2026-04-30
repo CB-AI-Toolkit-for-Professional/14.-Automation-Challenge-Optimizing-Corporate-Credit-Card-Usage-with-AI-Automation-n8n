@@ -7,6 +7,10 @@
 
 ---
 
+[![Watch the Demo](https://img.youtube.com/vi/F1RseQNocpA/maxresdefault.jpg)](https://www.youtube.com/watch?v=F1RseQNocpA)
+
+---
+
 ## 📌 Overview
 BizPro Solutions is struggling with scattered employee credit card usage. With different cards offering unique rewards, annual fees, and late fee penalties, optimizing this system manually is inefficient.
 
