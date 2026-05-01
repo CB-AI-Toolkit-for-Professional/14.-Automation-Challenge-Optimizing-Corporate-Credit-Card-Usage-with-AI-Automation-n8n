@@ -7,7 +7,7 @@
 
 ---
 
-[![Watch the Demo](https://img.youtube.com/vi/F1RseQNocpA/maxresdefault.jpg)](https://www.youtube.com/watch?v=F1RseQNocpA)
+[![Watch the Project](https://img.youtube.com/vi/F1RseQNocpA/maxresdefault.jpg)](https://www.youtube.com/watch?v=F1RseQNocpA)
 
 ---
 
